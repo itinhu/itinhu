@@ -10,7 +10,7 @@ Tenho foco em desenvolvimento back-end com Node.js e trabalho com MySQL. Gosto d
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=flat-square)](https://www.linkedin.com/in/italoiran/)
+<a href="https://www.linkedin.com/in/italoiran/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Ícone do LinkedIn" /></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=flat-square)](https://www.linkedin.com/in/italoiran/)
 
 ---
 
