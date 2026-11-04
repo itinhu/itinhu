@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ítalo Iran
+### Back-end · Node.js · MySQL
 
-<!--
-**itinhu/itinhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho foco em desenvolvimento back-end com Node.js e trabalho com MySQL. Gosto de construir soluções e entender como os dados se conectam à lógica de uma aplicação.
 
-Here are some ideas to get you started:
+### Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql&logoColor=4479A1)
+
+---
+
+🎮 **Próxima fase:** evoluir no back-end e aprofundar meus conhecimentos em banco de dados.
