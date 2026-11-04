@@ -18,7 +18,7 @@ Código, criatividade e curiosidade. 🌵
 
 Sou professor de Matemática, estudante de Ciência da Computação e gosto de ver uma ideia saindo do papel e funcionando de verdade.
 
-Gosto de explorar o caminho inteiro: **da interface aos dados, da lógica ao servidor**. Por aqui, desenvolvimento web, automação e infraestrutura se encontram — sempre com espaço para aprender alguma coisa nova.
+Gosto de explorar o caminho inteiro: **da interface aos dados, da lógica ao servidor**. Por aqui, desenvolvimento web, jogos e infraestrutura se encontram — sempre com espaço para aprender alguma coisa nova.
 
 🌵 Também participo da construção da **MandacaruSoft**, entre projetos independentes, aplicações web e infraestrutura.
 
@@ -38,6 +38,17 @@ Gosto de explorar o caminho inteiro: **da interface aos dados, da lógica ao ser
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" title="CSS3" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
+
+### 🛠️ Ideias que viraram código
+
+Da sala de aula ao lobby, alguns projetos que mostram o que gosto de construir:
+
+| Projeto | O que tem por aqui |
+| :--- | :--- |
+| 📚 **[Entrelinhas](https://github.com/itinhu/controle-biblioteca)** | Controle de empréstimos de livros, alunos, devoluções e prazos. Uma aplicação que conecta educação e desenvolvimento web com React e Node.js. |
+| 🎙️ **[LER+](https://github.com/itinhu/ler-mais)** | Projeto em desenvolvimento para apoiar a avaliação de fluência leitora, com painel do professor e transcrição de áudio por IA. |
+| 🥷 **[Ninja Dash](https://github.com/itinhu/Jogo-Python)** | Um projeto de jogo de plataforma 2D em Python e Pygame, explorando animações, movimento e som. |
+| 🎯 **[ValRank](https://github.com/itinhu/Valrank)** | Um ranking de Valorant para o grupo de amigos, com interface web feita em HTML, CSS e JavaScript. |
 
 ### 🗺️ O caminho até aqui
 
