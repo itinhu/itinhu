@@ -10,6 +10,8 @@ Código, criatividade e curiosidade. 🌵
 
 [Vamos trocar uma ideia?](https://www.linkedin.com/in/italoiran/)
 
+✉️ [italoiran.dev@gmail.com](mailto:italoiran.dev@gmail.com)
+
 </div>
 
 ---
