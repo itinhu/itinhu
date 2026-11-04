@@ -4,7 +4,7 @@
 
 **Entre uma equação, uma API e a próxima fase.**
 
-Back-end com Node.js · MySQL · Ciência da Computação
+Código, criatividade e curiosidade. 🌵
 
 <a href="https://www.linkedin.com/in/italoiran/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a>
 
@@ -18,19 +18,19 @@ Back-end com Node.js · MySQL · Ciência da Computação
 
 Sou professor de Matemática, estudante de Ciência da Computação e gosto de ver uma ideia saindo do papel e funcionando de verdade.
 
-Meu foco está no **back-end com Node.js e MySQL**: entender a lógica, conectar os dados e fazer as peças conversarem. Mas também exploro interfaces, Linux e servidores — a curiosidade costuma atravessar as camadas da aplicação.
+Gosto de explorar o caminho inteiro: **da interface aos dados, da lógica ao servidor**. Por aqui, desenvolvimento web, automação e infraestrutura se encontram — sempre com espaço para aprender alguma coisa nova.
 
 🌵 Também participo da construção da **MandacaruSoft**, entre projetos independentes, aplicações web e infraestrutura.
 
 ### ⚙️ Meu inventário
 
-**Mais presentes na missão atual**
+**Para construir e experimentar**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
 
-**Outras ferramentas que entram no jogo**
+**Da interface ao servidor**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" /> &nbsp;
@@ -58,7 +58,7 @@ Já passei por **programação, suporte técnico, redes e design**. Hoje, levo e
 
 ### 🎮 Próxima fase
 
-Aprofundar meus conhecimentos em **APIs, Node.js e bancos de dados**, construir aplicações que resolvam problemas reais e encontrar uma oportunidade para crescer em equipe.
+Conectar **desenvolvimento, dados e infraestrutura** para construir aplicações que resolvam problemas reais — e encontrar uma equipe com quem aprender, contribuir e encarar os próximos desafios.
 
 Se tiver uma ideia, um projeto ou uma oportunidade em desenvolvimento, [me chama no LinkedIn](https://www.linkedin.com/in/italoiran/).
 
