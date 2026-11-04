@@ -1,56 +1,71 @@
-# Ítalo Iran
-### Desenvolvimento back-end · Node.js · MySQL
+<div align="center">
 
-Sou professor de Matemática e estudante de Ciência da Computação, com foco em desenvolvimento back-end. Minha trajetória reúne experiências em programação, suporte técnico, redes e educação.
+# Opa, eu sou o Ítalo 👋
 
-Gosto de transformar ideias em aplicações funcionais, conectando a lógica do software aos dados e à execução em ambientes reais. Desenvolvo projetos independentes e participo da construção da **MandacaruSoft**, explorando aplicações web e infraestrutura.
+**Entre uma equação, uma API e a próxima fase.**
 
-### Tecnologias
+Back-end com Node.js · MySQL · Ciência da Computação
 
-**Foco atual**
+<a href="https://www.linkedin.com/in/italoiran/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a>
 
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql&logoColor=4479A1)
+[Vamos trocar uma ideia?](https://www.linkedin.com/in/italoiran/)
 
-**Também utilizo em estudos e projetos**
+</div>
 
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css&logoColor=663399)
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624)
+---
 
-Interesse e prática em **APIs, aplicações web, bancos de dados, Linux e servidores**.
+### 🧩 Um pouco de contexto
 
-### Experiência profissional
+Sou professor de Matemática, estudante de Ciência da Computação e gosto de ver uma ideia saindo do papel e funcionando de verdade.
 
-| Organização | Atuação | Período |
-| :--- | :--- | :--- |
-| Escola Francisco Melo e Silva | Professor de Matemática | jan. 2024 - atual |
-| CONCITEX | Suporte técnico / Auxiliar de Desenvolvimento | maio 2021 - jul. 2022 |
-| Secretaria Municipal de Educação de Baixio - CE | Digitador | ago. 2019 - mar. 2022 |
-| Grupo Zimos | Programador | jan. 2011 - maio 2021 |
-| RF Studio | Designer gráfico | jun. 2019 - nov. 2020 |
-| Briston Net - Telecom | Gerente de rede | nov. 2017 - nov. 2020 |
-| Zimos.TV | Programador web | jan. 2015 - nov. 2020 |
+Meu foco está no **back-end com Node.js e MySQL**: entender a lógica, conectar os dados e fazer as peças conversarem. Mas também exploro interfaces, Linux e servidores — a curiosidade costuma atravessar as camadas da aplicação.
 
-Na **Zimos.TV**, atuei com programação de banco de dados, desenvolvimento web e design. A experiência em educação também contribui para minha comunicação, resolução de problemas e troca de conhecimento.
+🌵 Também participo da construção da **MandacaruSoft**, entre projetos independentes, aplicações web e infraestrutura.
 
-### Formação
+### ⚙️ Meu inventário
 
-**Bacharelado em Ciência da Computação**  
-Faculdade Católica da Paraíba · ago. 2026 - conclusão prevista em jun. 2029
+**Mais presentes na missão atual**
 
-**Licenciatura em Matemática**  
-Estácio · ago. 2020 - jul. 2023
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
 
-### Próxima fase 🎮
+**Outras ferramentas que entram no jogo**
 
-Busco oportunidades de estágio ou posições iniciais em desenvolvimento de software, com foco em back-end. Quero contribuir com projetos reais, aprender com profissionais experientes e aprofundar meus conhecimentos em Node.js e bancos de dados.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" title="React" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" title="HTML5" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" title="CSS3" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
 
-### Contato
+### 🗺️ O caminho até aqui
 
-<a href="https://www.linkedin.com/in/italoiran/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Ícone do LinkedIn" /></a> [LinkedIn](https://www.linkedin.com/in/italoiran/)
+Já passei por **programação, suporte técnico, redes e design**. Hoje, levo essa bagagem para os estudos e projetos de software — e a sala de aula me dá prática em explicar ideias, ouvir e resolver problemas junto com outras pessoas.
+
+<details>
+<summary>Um pouco mais da minha trajetória</summary>
+
+<br />
+
+- **Código e dados:** Grupo Zimos e Zimos.TV, com experiência em programação, desenvolvimento web e banco de dados.
+- **Suporte e infraestrutura:** CONCITEX e Briston Net, em suporte técnico, auxílio ao desenvolvimento e gestão de rede.
+- **Design:** RF Studio.
+- **Educação:** professor de Matemática na Escola Francisco Melo e Silva, com passagem pela Secretaria de Educação de Baixio.
+- **Formação:** licenciado em Matemática pela Estácio e cursando Ciência da Computação na Faculdade Católica da Paraíba.
+
+</details>
+
+### 🎮 Próxima fase
+
+Aprofundar meus conhecimentos em **APIs, Node.js e bancos de dados**, construir aplicações que resolvam problemas reais e encontrar uma oportunidade para crescer em equipe.
+
+Se tiver uma ideia, um projeto ou uma oportunidade em desenvolvimento, [me chama no LinkedIn](https://www.linkedin.com/in/italoiran/).
+
+---
+
+<div align="center">
+
+<sub>Do interior do Ceará, construindo uma coisa de cada vez. 🌵</sub>
+
+</div>
